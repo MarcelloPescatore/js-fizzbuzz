@@ -7,4 +7,26 @@ console.log("test");
 // Prima di partire a scrivere codice poniamoci qualche domanda: Come faccio a sapere se un numero è divisibile per? Abbiamo visto qualcosa di particolare che possiamo usare?
 
 
+// Analize the assignment
+// First of all divede the workflow in 3 steps
+
+
+// 1. useful tools
+//  - cicle for
+//  - relational and logical operators
+//  - Arithmetic operators
+
+
+// 2. Proceede to set up the code 
+
+// We need a program that stamp numbers from 1 to 100
+// Then we put 2 conditions:
+// 1. if the number is a multiply of 3, stamp "Fizz"
+// 2. else if the number is a multiply of 5, stamp "FizzBuzz"
+// else stamp the number
+
+// 3. Output
+
+
+// Complete the assignment
 
